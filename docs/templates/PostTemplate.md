@@ -1,4 +1,5 @@
 ---
 layout: post
-title: PostName
+title: "{{title}}"
+date: "{{date}}"
 ---
