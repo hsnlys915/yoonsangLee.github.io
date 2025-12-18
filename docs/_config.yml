@@ -29,9 +29,9 @@ url: "https://hsnlys915.github.io/" # the base hostname & protocol for your site
 github_username:  hsnlys915
 
 # Build settings
-remote_theme: zivhub/monophase@main
-plugins:
-- jekyll-remote-theme 
+# remote_theme: zivhub/monophase@main
+# plugins:
+# - jekyll-remote-theme 
 # add this line to the plugins list if you already have one
 
 # Exclude from processing.
