@@ -25,7 +25,7 @@ target="_blank" rel="noopener">
   "Remittance Inflows and Investment in Fiscal Capacity: Evidence from VAT Introduction in PostIndependence African Countries"
 </a> 
 </strong>
-(with Bumjun Park and SeongJae Hong) in preparation for journal submissions
+(with Bumjun Park and SeongJae Hong; in preparation for journal submissions)
 
 
 </div>
